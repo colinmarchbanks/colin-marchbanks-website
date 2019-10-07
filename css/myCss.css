@@ -1,0 +1,243 @@
+.vertlines{
+    display: inline-block;
+}
+
+.vertLine1{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine1; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine1;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes vertLine1 {
+    0%   {background-color:black; left:50px; top:calc(100vh - 250px) ;}
+    50% {background-color:black; left:50px; top:0px;}
+    100%   {background-color:black; left:50px; top:calc(100vh - 250px) ;}
+}
+
+/* Standard syntax */
+@keyframes vertLine1 {
+    0%   {background-color:black; left:50px; top:calc(100vh - 250px);}
+    50% {background-color:black; left:50px; top:0px;}
+    100%   {background-color:black; left:50px; top:calc(100vh - 250px) ;}
+}
+
+.vertLine2{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine2; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine2;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes vertLine2 {
+    0%   {background-color:black; left:125px; top:0; }
+    50% {background-color:black; left:125px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:125px; top:0; }
+}
+
+/* Standard syntax */
+@keyframes vertLine2 {
+    0%   {background-color:black; left:125px; top:0;}
+    50% {background-color:black; left:125px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:125px; top:0;}
+}
+
+.vertLine3{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine3; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine3;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes vertLine3 {
+    0%   {background-color:black; left:225px; top:calc(100vh - 250px) ;}
+    50% {background-color:black; left:225px; top:0px;}
+    100%   {background-color:black; left:225px; top:calc(100vh - 250px) ;}
+}
+
+/* Standard syntax */
+@keyframes vertLine3 {
+    0%   {background-color:black; left:225px; top:calc(100vh - 250px);}
+    50% {background-color:black; left:225px; top:0px;}
+    100%   {background-color:black; left:225px; top:calc(100vh - 250px) ;}
+}
+
+.vertLine4{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine4; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine4;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+ /*Safari 4.0 - 8.0 **/
+@-webkit-keyframes vertLine4 {
+    0%   {background-color:black; left:325px; top:0; }
+    50% {background-color:black; left:325px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:325px; top:0; }}
+
+ /*Standard syntax */
+@keyframes vertLine4 {
+      0%   {background-color:black; left:325px; top:0; }
+      50% {background-color:black; left:325px; top:calc(100vh - 250px);}
+      100%   {background-color:black; left:325px; top:0; }
+}
+
+.vertLine5{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine5; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine5;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes vertLine5 {
+    0%   {background-color:black; left:425px; top:calc(100vh - 250px) ;}
+    50% {background-color:black; left:425px; top:0px;}
+    100%   {background-color:black; left:425px; top:calc(100vh - 250px) ;}
+}
+
+/* Standard syntax */
+@keyframes vertLine5 {
+    0%   {background-color:black; left:425px; top:calc(100vh - 250px);}
+    50% {background-color:black; left:425px; top:0px;}
+    100%   {background-color:black; left:425px; top:calc(100vh - 250px) ;}
+}
+
+.vertLine6{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine6; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine6;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/*Safari 4.0 - 8.0 **/
+@-webkit-keyframes vertLine6 {
+    0%   {background-color:black; left:550px; top:0; }
+    50% {background-color:black; left:550px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:550px; top:0; }}
+
+/*Standard syntax */
+@keyframes vertLine6 {
+    0%   {background-color:black; left:550px; top:0; }
+    50% {background-color:black; left:550px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:550px; top:0; }
+}
+
+.vertLine7{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine7; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine7;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes vertLine7 {
+    0%   {background-color:black; left:650px; top:calc(100vh - 250px) ;}
+    50% {background-color:black; left:650px; top:0px;}
+    100%   {background-color:black; left:650px; top:calc(100vh - 250px) ;}
+}
+
+/* Standard syntax */
+@keyframes vertLine7 {
+    0%   {background-color:black; left:650px; top:calc(100vh - 250px);}
+    50% {background-color:black; left:650px; top:0px;}
+    100%   {background-color:black; left:650px; top:calc(100vh - 250px) ;}
+}
+
+.vertLine8{
+    width: 50px;
+    height: 250px;
+    background-color: black;
+    position: relative;
+    -webkit-animation-name: vertLine8; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: vertLine8;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+/*Safari 4.0 - 8.0 **/
+@-webkit-keyframes vertLine8 {
+    0%   {background-color:black; left:750px; top:0; }
+    50% {background-color:black; left:750px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:750px; top:0; }}
+
+/*Standard syntax */
+@keyframes vertLine8 {
+    0%   {background-color:black; left:750px; top:0; }
+    50% {background-color:black; left:750px; top:calc(100vh - 250px);}
+    100%   {background-color:black; left:750px; top:0; }
+}
+
+/*.vertLine9{*/
+/*    width: 50px;*/
+/*    height: 250px;*/
+/*    background-color: black;*/
+/*    position: relative;*/
+/*    -webkit-animation-name: vertLine9; !* Safari 4.0 - 8.0 *!*/
+/*    -webkit-animation-duration: 4s; !* Safari 4.0 - 8.0 *!*/
+/*    -webkit-animation-iteration-count: infinite; !* Safari 4.0 - 8.0 *!*/
+/*    animation-name: vertLine9;*/
+/*    animation-duration: 5s;*/
+/*    animation-iteration-count: infinite;*/
+/*}*/
+
+/*!* Safari 4.0 - 8.0 *!*/
+/*@-webkit-keyframes vertLine9 {*/
+/*    0%   {background-color:black; left:850px; top:calc(100vh - 250px) ;}*/
+/*    50% {background-color:black; left:850px; top:0px;}*/
+/*    100%   {background-color:black; left:850px; top:calc(100vh - 250px) ;}*/
+/*}*/
+
+/*!* Standard syntax *!*/
+/*@keyframes vertLine9 {*/
+/*    0%   {background-color:black; left:850px; top:calc(100vh - 250px);}*/
+/*    50% {background-color:black; left:850px; top:0px;}*/
+/*    100%   {background-color:black; left:850px; top:calc(100vh - 250px) ;}*/
+/*}*/
